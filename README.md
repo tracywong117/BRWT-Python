@@ -2,9 +2,9 @@
 
 This implementation is based on a data structure introduced in the paper:
 
-**"Compact Binary Relation Representations with Rich Functionality"**  
-*(arXiv:1201.3602v1 [cs.DS], 17 Jan 2012)*  
-Authors: Jérémy Barbay, Francisco Claude, and Gonzalo Navarro  
+**"Sparse Binary Relation Representations for Genome Graph Annotation"**  
+*J Comput Biol. 2020 Apr;27(4):626-639.*  
+Authors: Mikhail Karasikov, Harun Mustafa, Amir Joudaki, Sara Javadzadeh-No, Gunnar Rätsch, André Kahles  
 
 ## Description
 
@@ -32,7 +32,9 @@ The **Binary Representation Wavelet Tree (BRWT)** is the data structure designed
 
 ## Reference
 
-Barbay, J., Claude, F., & Navarro, G. (2012).  
-**"Compact Binary Relation Representations with Rich Functionality."**  
-arXiv:1201.3602v1 [cs.DS].
+Karasikov, M., Mustafa, H., Joudaki, A., Javadzadeh-No, S., Rätsch, G., & Kahles, A. (2020).  
+**"Sparse Binary Relation Representations for Genome Graph Annotation."**  
+J Comput Biol. 2020 Apr;27(4):626-639.  
+DOI: [10.1089/cmb.2019.0324](https://doi.org/10.1089/cmb.2019.0324)  
+
 
