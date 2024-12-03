@@ -1,22 +1,18 @@
 # Binary Representation Wavelet Tree (BRWT)
 
-This implementation is based on concepts introduced in the paper:
+This implementation is based on a data structure introduced in the paper:
 
 **"Compact Binary Relation Representations with Rich Functionality"**  
 *(arXiv:1201.3602v1 [cs.DS], 17 Jan 2012)*  
 Authors: Jérémy Barbay, Francisco Claude, and Gonzalo Navarro  
 
----
-
 ## Description
 
-The **Binary Representation Wavelet Tree (BRWT)** is a data structure designed for efficient representation and querying of sparse binary matrices. It enables:
+The **Binary Representation Wavelet Tree (BRWT)** is the data structure designed for efficient representation and querying of sparse binary matrices. It enables:
 
 - **Efficient Compression**: Reduces the memory footprint of the matrix.
 - **Rich Query Functionality**: Enables fast reconstruction of matrix columns.
 - **Space Efficiency**: Optimized for sparse binary relations.
-
----
 
 ## Features
 
@@ -29,14 +25,10 @@ The **Binary Representation Wavelet Tree (BRWT)** is a data structure designed f
 3. **Memory Usage Comparison**:
    - Compares the memory usage of the original matrix and the BRWT structure.
 
----
-
 ## Dependencies
 
 - **Python 3.7+**
 - **NumPy**
-
----
 
 ## Reference
 
